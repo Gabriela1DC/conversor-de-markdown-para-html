@@ -1,0 +1,28 @@
+{
+  "name": "processador-de-markdown",
+  "version": "1.0.0",
+  "description": "Converta markdown para HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriela1DC/conversor-de-markdown-para-html.git"
+  },
+  "keywords": [
+    "Typescript",
+    "HTML",
+    "Markdown",
+    "Conversor"
+  ],
+  "author": "Gabriela David Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabriela1DC/conversor-de-markdown-para-html/issues"
+  },
+  "homepage": "https://github.com/Gabriela1DC/conversor-de-markdown-para-html#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
+}
